@@ -63,6 +63,8 @@
     \vspace{20pt}
     % \horrule{2pt} \\[0.5cm]
     } \par}
+    {difficulty score: \difficulty{} of 10}
+
     \vskip 3em
     {\large
      \lineskip .75em
